@@ -1,2 +1,2 @@
-# loco
-LoCo (Cooperative-Localization) framework and simulation suite
+# LoCo
+LoCo (Cooperative-Localization) framework and simulation suite.

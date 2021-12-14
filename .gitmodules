@@ -1,0 +1,12 @@
+[submodule "loco_framework"]
+	path = loco_framework
+	url = git@github.com:Butakus/loco_framework.git
+[submodule "agent_emulator"]
+	path = agent_emulator
+	url = git@github.com:Butakus/agent_emulator.git
+[submodule "fake_vehicle_detection"]
+	path = fake_vehicle_detection
+	url = git@github.com:Butakus/fake_vehicle_detection.git
+[submodule "loco_launch"]
+	path = loco_launch
+	url = git@github.com:Butakus/loco_launch.git
